@@ -13,6 +13,9 @@ public class Main {
 	public static void displayGreeting(){
 		System.out.println("Hi my sale buddy");
 		System.out.println("Only sale data");
+		
+		
+		System.out.println("changed data");
 	}
 	
 	
